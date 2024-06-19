@@ -1,0 +1,4 @@
+pandas[parquet]
+gcsa
+requests
+boto3
